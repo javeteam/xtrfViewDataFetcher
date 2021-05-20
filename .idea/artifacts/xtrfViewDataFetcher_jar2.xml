@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xtrfViewDataFetcher:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/xtrfViewDataFetcher_jar2</output-path>
+    <root id="archive" name="xtrfViewDataFetcher.jar">
+      <element id="module-output" name="xtrfViewDataFetcher" />
+      <element id="extracted-dir" path="$USER_HOME$/Завантаження/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Завантаження/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Завантаження/mysql-connector-java-5.1.23-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Завантаження/commons-csv-1.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
